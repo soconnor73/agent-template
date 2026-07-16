@@ -20,6 +20,7 @@ These templates are organized to guide both you and your AI agents through the e
 | | [docs/planning/BACKLOG.md](file:///C:/Users/t0187391/agent-project-templates/docs/planning/BACKLOG.md) | Prioritized feature lists, tasks, and bugs. |
 | | [docs/planning/RISKS.md](file:///C:/Users/t0187391/agent-project-templates/docs/planning/RISKS.md) | Identified technical debt, constraints, and assumptions. |
 | **Building** | [docs/building/CONVENTIONS.md](file:///C:/Users/t0187391/agent-project-templates/docs/building/CONVENTIONS.md) | Coding style, architectural rules, and project patterns. |
+| | [docs/building/DEV_SETUP.md](file:///C:/Users/t0187391/agent-project-templates/docs/building/DEV_SETUP.md) | Local developer environment requirements, env vars, database seeding, and mocks. |
 | | [docs/building/API_CONTRACTS.md](file:///C:/Users/t0187391/agent-project-templates/docs/building/API_CONTRACTS.md) | Defined interfaces, payload shapes, and endpoint contracts. |
 | | [docs/building/SECURITY.md](file:///C:/Users/t0187391/agent-project-templates/docs/building/SECURITY.md) | Threat models, sensitive data handling, and compliance rules. |
 | **Testing** | [docs/testing/STRATEGY.md](file:///C:/Users/t0187391/agent-project-templates/docs/testing/STRATEGY.md) | How the application should be tested (unit, integration, E2E). |
