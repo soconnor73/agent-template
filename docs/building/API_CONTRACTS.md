@@ -1,0 +1,9 @@
+# API Contracts
+
+Endpoint/interface signatures with invariants that a type signature can't
+express — e.g. "always paginated," "idempotent," "never null."
+
+## <endpoint or interface name>
+- Signature: ...
+- Invariants: ...
+- Error modes: ...

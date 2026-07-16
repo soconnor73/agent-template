@@ -1,0 +1,6 @@
+# Feature: <name>
+Given <context>, when <action>, then <observable outcome>.
+
+Edge cases: ...
+
+Explicitly not required: ...
